@@ -1,2 +1,2 @@
 # testcoursegit
-Este es un proyecto de prueba con Goit
+Este es un proyecto de prueba con Git
